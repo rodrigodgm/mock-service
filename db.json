@@ -1,0 +1,20 @@
+{
+  "service1": [
+    {
+      "status": 200,
+      "message": "Success"
+    }
+  ],
+  "service2": [
+    {
+      "status": 400,
+      "title": "Bad Request"
+    }
+  ],
+    "service3": [
+    {
+      "id": 500,
+      "title": "Error"
+    }
+  ]
+}
